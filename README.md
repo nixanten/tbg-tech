@@ -1,9 +1,9 @@
 # tbg-tech
 
-Just a simple Haskell script to simulate progress for a research project in the QUEST To Boldly Go.
+Just a simple Haskell script to simulate progress for a research project in the [QUEST To Boldly Go](https://forums.sufficientvelocity.com/threads/to-boldly-go-a-starfleet-quest.32005).
 Intended to be used in a ghci session.
 
-Usage: Install GHC, open in ghci sesssion (ghci Tech.hs).
+Usage: Install [Haskellstack](https://docs.haskellstack.org/en/stable/README/), open in ghci sesssion (stack ghci).
 
 Example team: Skill 3 XP 4/5
 Example project:
